@@ -2,9 +2,9 @@
 
 ## General Description
 
-The application will allow the managing of the activities of an art club. The informatic system will contain a user interface  ( web navigator or dedicated application), a database server which will stock the informations about the activity of the association, an application server.  The user has access to the service only through the user interface. 
-The system will offer the possibility of managing the members of the association, the management of member contribution fees and the managing of resources ( ex: Conference halls , expositions etc)
-Depending on the form of authentication (admin/user), the user will be allowed to manage members, add fees, add resources
+The application will allow the managing of the activities of an art club. The informatic system will contain a user interface  ( web navigator or dedicated application), a database server which will stock the informations about the activity of the association, an application server.  The user has access to the service only through the user interface.  
+The system will offer the possibility of managing the members of the association, the management of member contribution fees and the managing of resources ( ex: Conference halls , expositions etc)  
+Depending on the form of authentication (admin/user), the user will be allowed to manage members, add fees, add resources.
 
 ## Application Requirements
 
